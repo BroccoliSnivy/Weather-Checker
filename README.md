@@ -13,8 +13,8 @@ A goofy **Tkinter + ttkbootstrap** application that pretends to check the weathe
 
 ---
 
-## 📸 Preview
-<img src="your_screenshot_here.png" width="600" alt="App Screenshot">
+## 📸 Artwork
+<img src="resources/artwork.png" width="600" alt="App Screenshot">
 
 ---
 
